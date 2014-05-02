@@ -8,7 +8,7 @@ Tools:
 
 1.cursoradapter
 
-2. sqlite database 
+2.sqlite database 
 
 דוגמא לשימוש של קורסר אטפאר ובסיס נתונים 
 
